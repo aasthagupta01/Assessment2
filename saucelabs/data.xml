@@ -1,0 +1,17 @@
+<data>
+    <user name="standard_user">
+        <password value="secret_sauce"/>
+    </user>
+
+    <user name="locked_out_user">
+        <password value="secret_sauce"/>
+    </user>
+
+    <user name="problem_user">
+        <password value="secret_sauce"/>
+    </user>
+    <user name="performance_glitch_user">
+        <password value="secret_sauce"/>
+    </user>
+
+</data>
